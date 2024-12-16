@@ -4,4 +4,4 @@ This is a Front-end Web Application for a restuarant named "PIZZA CORNER" where 
 
 it exectute this app use the command "npm start"
 
-[Project Sample Pages] (sample pages of Project.pdf)
+[Project Sample Pages](Sample pages of Project.pdf)
